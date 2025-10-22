@@ -5,6 +5,27 @@
 	<key>UIBackgroundModes</key>
 	<array>
 		<string>remote-notification</string>
+		<string>processing</string>
+		<string>location</string>
+		<string>fetch</string>
 	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>Claims IQ Sidekick needs camera access to capture inspection photos with AI-powered annotations.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Claims IQ Sidekick needs photo library access to save and manage inspection photos.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Claims IQ Sidekick needs your location to tag photos and provide accurate claim site information.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Claims IQ Sidekick needs your location to track inspection routes and provide location-based insights.</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Claims IQ Sidekick needs calendar access to schedule and manage inspection appointments.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Claims IQ Sidekick needs contacts access to easily add insured and adjuster contact information.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Claims IQ Sidekick needs microphone access to record voice notes during inspections.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Claims IQ Sidekick uses speech recognition to transcribe voice notes.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Claims IQ Sidekick uses Face ID to secure your sensitive claim data.</string>
 </dict>
 </plist>

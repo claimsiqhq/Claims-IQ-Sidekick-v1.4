@@ -13,6 +13,14 @@ struct Claims_IQ_Sidekick_v1_4App: App {
     var sharedModelContainer: ModelContainer = {
         let schema = Schema([
             Item.self,
+            Claim.self,
+            FNOL.self,
+            InspectionWorkflow.self,
+            InspectionStep.self,
+            InspectionItem.self,
+            Photo.self,
+            LiDARScan.self,
+            DailyInsight.self
         ])
         let modelConfiguration = ModelConfiguration(schema: schema, isStoredInMemoryOnly: false)
 
