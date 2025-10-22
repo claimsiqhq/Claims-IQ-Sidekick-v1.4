@@ -226,3 +226,4 @@ struct StatusBadge: View {
         .modelContainer(for: Claim.self, inMemory: true)
 }
 
+
