@@ -1,0 +1,600 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		2E12A3DF2EA8DB23002138EC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2E12A3C52EA8DB22002138EC /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 2E12A3CC2EA8DB22002138EC;
+			remoteInfo = "Claims IQ Sidekick v1.4";
+		};
+		2E12A3E92EA8DB23002138EC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2E12A3C52EA8DB22002138EC /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 2E12A3CC2EA8DB22002138EC;
+			remoteInfo = "Claims IQ Sidekick v1.4";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		2E12A3CD2EA8DB22002138EC /* Claims IQ Sidekick v1.4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Claims IQ Sidekick v1.4.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2E12A3DE2EA8DB23002138EC /* Claims IQ Sidekick v1.4Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Claims IQ Sidekick v1.4Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2E12A3E82EA8DB23002138EC /* Claims IQ Sidekick v1.4UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Claims IQ Sidekick v1.4UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		2E12A3F02EA8DB23002138EC /* Exceptions for "Claims IQ Sidekick v1.4" folder in "Claims IQ Sidekick v1.4" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 2E12A3CC2EA8DB22002138EC /* Claims IQ Sidekick v1.4 */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		2E12A3CF2EA8DB22002138EC /* Claims IQ Sidekick v1.4 */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				2E12A3F02EA8DB23002138EC /* Exceptions for "Claims IQ Sidekick v1.4" folder in "Claims IQ Sidekick v1.4" target */,
+			);
+			path = "Claims IQ Sidekick v1.4";
+			sourceTree = "<group>";
+		};
+		2E12A3E12EA8DB23002138EC /* Claims IQ Sidekick v1.4Tests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Claims IQ Sidekick v1.4Tests";
+			sourceTree = "<group>";
+		};
+		2E12A3EB2EA8DB23002138EC /* Claims IQ Sidekick v1.4UITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Claims IQ Sidekick v1.4UITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2E12A3CA2EA8DB22002138EC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2E12A3DB2EA8DB23002138EC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2E12A3E52EA8DB23002138EC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2E12A3C42EA8DB21002138EC = {
+			isa = PBXGroup;
+			children = (
+				2E12A3CF2EA8DB22002138EC /* Claims IQ Sidekick v1.4 */,
+				2E12A3E12EA8DB23002138EC /* Claims IQ Sidekick v1.4Tests */,
+				2E12A3EB2EA8DB23002138EC /* Claims IQ Sidekick v1.4UITests */,
+				2E12A3CE2EA8DB22002138EC /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		2E12A3CE2EA8DB22002138EC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2E12A3CD2EA8DB22002138EC /* Claims IQ Sidekick v1.4.app */,
+				2E12A3DE2EA8DB23002138EC /* Claims IQ Sidekick v1.4Tests.xctest */,
+				2E12A3E82EA8DB23002138EC /* Claims IQ Sidekick v1.4UITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2E12A3CC2EA8DB22002138EC /* Claims IQ Sidekick v1.4 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2E12A3F12EA8DB23002138EC /* Build configuration list for PBXNativeTarget "Claims IQ Sidekick v1.4" */;
+			buildPhases = (
+				2E12A3C92EA8DB22002138EC /* Sources */,
+				2E12A3CA2EA8DB22002138EC /* Frameworks */,
+				2E12A3CB2EA8DB22002138EC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				2E12A3CF2EA8DB22002138EC /* Claims IQ Sidekick v1.4 */,
+			);
+			name = "Claims IQ Sidekick v1.4";
+			packageProductDependencies = (
+			);
+			productName = "Claims IQ Sidekick v1.4";
+			productReference = 2E12A3CD2EA8DB22002138EC /* Claims IQ Sidekick v1.4.app */;
+			productType = "com.apple.product-type.application";
+		};
+		2E12A3DD2EA8DB23002138EC /* Claims IQ Sidekick v1.4Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2E12A3F62EA8DB23002138EC /* Build configuration list for PBXNativeTarget "Claims IQ Sidekick v1.4Tests" */;
+			buildPhases = (
+				2E12A3DA2EA8DB23002138EC /* Sources */,
+				2E12A3DB2EA8DB23002138EC /* Frameworks */,
+				2E12A3DC2EA8DB23002138EC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				2E12A3E02EA8DB23002138EC /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				2E12A3E12EA8DB23002138EC /* Claims IQ Sidekick v1.4Tests */,
+			);
+			name = "Claims IQ Sidekick v1.4Tests";
+			packageProductDependencies = (
+			);
+			productName = "Claims IQ Sidekick v1.4Tests";
+			productReference = 2E12A3DE2EA8DB23002138EC /* Claims IQ Sidekick v1.4Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		2E12A3E72EA8DB23002138EC /* Claims IQ Sidekick v1.4UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2E12A3F92EA8DB23002138EC /* Build configuration list for PBXNativeTarget "Claims IQ Sidekick v1.4UITests" */;
+			buildPhases = (
+				2E12A3E42EA8DB23002138EC /* Sources */,
+				2E12A3E52EA8DB23002138EC /* Frameworks */,
+				2E12A3E62EA8DB23002138EC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				2E12A3EA2EA8DB23002138EC /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				2E12A3EB2EA8DB23002138EC /* Claims IQ Sidekick v1.4UITests */,
+			);
+			name = "Claims IQ Sidekick v1.4UITests";
+			packageProductDependencies = (
+			);
+			productName = "Claims IQ Sidekick v1.4UITests";
+			productReference = 2E12A3E82EA8DB23002138EC /* Claims IQ Sidekick v1.4UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2E12A3C52EA8DB22002138EC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2600;
+				LastUpgradeCheck = 2600;
+				TargetAttributes = {
+					2E12A3CC2EA8DB22002138EC = {
+						CreatedOnToolsVersion = 26.0.1;
+					};
+					2E12A3DD2EA8DB23002138EC = {
+						CreatedOnToolsVersion = 26.0.1;
+						TestTargetID = 2E12A3CC2EA8DB22002138EC;
+					};
+					2E12A3E72EA8DB23002138EC = {
+						CreatedOnToolsVersion = 26.0.1;
+						TestTargetID = 2E12A3CC2EA8DB22002138EC;
+					};
+				};
+			};
+			buildConfigurationList = 2E12A3C82EA8DB22002138EC /* Build configuration list for PBXProject "Claims IQ Sidekick v1.4" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 2E12A3C42EA8DB21002138EC;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 2E12A3CE2EA8DB22002138EC /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2E12A3CC2EA8DB22002138EC /* Claims IQ Sidekick v1.4 */,
+				2E12A3DD2EA8DB23002138EC /* Claims IQ Sidekick v1.4Tests */,
+				2E12A3E72EA8DB23002138EC /* Claims IQ Sidekick v1.4UITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2E12A3CB2EA8DB22002138EC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2E12A3DC2EA8DB23002138EC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2E12A3E62EA8DB23002138EC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2E12A3C92EA8DB22002138EC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2E12A3DA2EA8DB23002138EC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2E12A3E42EA8DB23002138EC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		2E12A3E02EA8DB23002138EC /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 2E12A3CC2EA8DB22002138EC /* Claims IQ Sidekick v1.4 */;
+			targetProxy = 2E12A3DF2EA8DB23002138EC /* PBXContainerItemProxy */;
+		};
+		2E12A3EA2EA8DB23002138EC /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 2E12A3CC2EA8DB22002138EC /* Claims IQ Sidekick v1.4 */;
+			targetProxy = 2E12A3E92EA8DB23002138EC /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		2E12A3F22EA8DB23002138EC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Claims IQ Sidekick v1.4/Claims_IQ_Sidekick_v1_4.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = TCQ5859239;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Claims IQ Sidekick v1.4/Info.plist";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ClaimsIQ.Claims-IQ-Sidekick-v1-4";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		2E12A3F32EA8DB23002138EC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Claims IQ Sidekick v1.4/Claims_IQ_Sidekick_v1_4.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = TCQ5859239;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Claims IQ Sidekick v1.4/Info.plist";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ClaimsIQ.Claims-IQ-Sidekick-v1-4";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		2E12A3F42EA8DB23002138EC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = TCQ5859239;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		2E12A3F52EA8DB23002138EC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = TCQ5859239;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		2E12A3F72EA8DB23002138EC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = TCQ5859239;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ClaimsIQ.Claims-IQ-Sidekick-v1-4Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Claims IQ Sidekick v1.4.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Claims IQ Sidekick v1.4";
+			};
+			name = Debug;
+		};
+		2E12A3F82EA8DB23002138EC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = TCQ5859239;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ClaimsIQ.Claims-IQ-Sidekick-v1-4Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Claims IQ Sidekick v1.4.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Claims IQ Sidekick v1.4";
+			};
+			name = Release;
+		};
+		2E12A3FA2EA8DB23002138EC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = TCQ5859239;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ClaimsIQ.Claims-IQ-Sidekick-v1-4UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Claims IQ Sidekick v1.4";
+			};
+			name = Debug;
+		};
+		2E12A3FB2EA8DB23002138EC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = TCQ5859239;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ClaimsIQ.Claims-IQ-Sidekick-v1-4UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Claims IQ Sidekick v1.4";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2E12A3C82EA8DB22002138EC /* Build configuration list for PBXProject "Claims IQ Sidekick v1.4" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2E12A3F42EA8DB23002138EC /* Debug */,
+				2E12A3F52EA8DB23002138EC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2E12A3F12EA8DB23002138EC /* Build configuration list for PBXNativeTarget "Claims IQ Sidekick v1.4" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2E12A3F22EA8DB23002138EC /* Debug */,
+				2E12A3F32EA8DB23002138EC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2E12A3F62EA8DB23002138EC /* Build configuration list for PBXNativeTarget "Claims IQ Sidekick v1.4Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2E12A3F72EA8DB23002138EC /* Debug */,
+				2E12A3F82EA8DB23002138EC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2E12A3F92EA8DB23002138EC /* Build configuration list for PBXNativeTarget "Claims IQ Sidekick v1.4UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2E12A3FA2EA8DB23002138EC /* Debug */,
+				2E12A3FB2EA8DB23002138EC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2E12A3C52EA8DB22002138EC /* Project object */;
+}
